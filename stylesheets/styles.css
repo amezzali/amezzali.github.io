@@ -159,9 +159,9 @@ strong {
   font-weight:500;
 }
 
-header ul li + li + li {
+header ul li + li {
   border-right:none;
-  width:89px;
+  width:133px;
 }
 
 header ul a strong {
